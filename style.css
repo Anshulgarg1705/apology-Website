@@ -1343,7 +1343,7 @@ body {
 
         margin-bottom: 70px;
     }
-
+   
     .paper p {
         font-size: 16px;
         line-height: 1.9;
@@ -1418,4 +1418,10 @@ body {
     .envelope-note {
         font-size: 11px;
     }
+}
+.photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
